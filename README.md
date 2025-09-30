@@ -1,6 +1,6 @@
 # Face-Detection-Model
 
-Library Used 
+# Library Used 
 
 import cv2
 
@@ -10,7 +10,7 @@ import os
 
 from google.colab.patches import cv2_imshow
 
-Library used for display on colab 
+# Library used for display on colab 
 
 from IPython.display import HTML
 
